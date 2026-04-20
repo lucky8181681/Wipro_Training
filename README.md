@@ -1,4 +1,4 @@
-# Wipro .NET Full Stack Training
+#.NET Full Stack Training
 
 ## Overview
 Hands-on training covering C#, .NET, SQL, ASP.NET Core, Microservices, Cloud, and Angular.

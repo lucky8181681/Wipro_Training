@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Day5;
+using System;
 
 class PatternMatchingDemo
 {
@@ -58,6 +59,9 @@ class PatternMatchingDemo
         {
             Console.WriteLine($"{person.Name} is Minor");
         }
+
+        var result = TupleDemo.CalculateRectangle(10, 7); //TupleDemo
+        Console.WriteLine("Tuple Output: " + result);
     }
 }
 class Person                                                  // Class for property pattern

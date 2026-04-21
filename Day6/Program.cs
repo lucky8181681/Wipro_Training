@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        // -------- Single Cast --------
+        Console.WriteLine("---- Single Cast Delegate ----");
+
         MathOperation op = DelegateDemo.Add;
         int result = op(10, 5);
         Console.WriteLine("Addition: " + result);
@@ -19,5 +22,16 @@ class Program
         op = DelegateDemo.Divide;
         result = op(20, 5);
         Console.WriteLine("Division: " + result);
+
+
+        // -------- Multicast --------
+        Console.WriteLine("\n---- Multicast Delegate ----");
+
+        MultiDelegate multi = MulticastDemo.Add;
+
+        multi += MulticastDemo.Subtract;
+        multi += MulticastDemo.Multiply;
+
+        multi(10, 5);
     }
 }

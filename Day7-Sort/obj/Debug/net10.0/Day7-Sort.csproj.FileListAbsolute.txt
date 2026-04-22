@@ -1,0 +1,15 @@
+C:\Users\lucky\Wipro_Training\Day7-Sort\bin\Debug\net10.0\Day7-Sort.exe
+C:\Users\lucky\Wipro_Training\Day7-Sort\bin\Debug\net10.0\Day7-Sort.deps.json
+C:\Users\lucky\Wipro_Training\Day7-Sort\bin\Debug\net10.0\Day7-Sort.runtimeconfig.json
+C:\Users\lucky\Wipro_Training\Day7-Sort\bin\Debug\net10.0\Day7-Sort.dll
+C:\Users\lucky\Wipro_Training\Day7-Sort\bin\Debug\net10.0\Day7-Sort.pdb
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.AssemblyInfoInputs.cache
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.AssemblyInfo.cs
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.sourcelink.json
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.dll
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\refint\Day7-Sort.dll
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.pdb
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\Day7-Sort.genruntimeconfig.cache
+C:\Users\lucky\Wipro_Training\Day7-Sort\obj\Debug\net10.0\ref\Day7-Sort.dll

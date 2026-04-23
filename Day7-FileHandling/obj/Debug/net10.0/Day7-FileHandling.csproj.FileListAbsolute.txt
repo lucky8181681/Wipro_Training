@@ -1,0 +1,15 @@
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\bin\Debug\net10.0\Day7-FileHandling.exe
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\bin\Debug\net10.0\Day7-FileHandling.deps.json
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\bin\Debug\net10.0\Day7-FileHandling.runtimeconfig.json
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\bin\Debug\net10.0\Day7-FileHandling.dll
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\bin\Debug\net10.0\Day7-FileHandling.pdb
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.AssemblyInfoInputs.cache
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.AssemblyInfo.cs
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.sourcelink.json
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.dll
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\refint\Day7-FileHandling.dll
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.pdb
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\Day7-FileHandling.genruntimeconfig.cache
+C:\Users\lucky\Wipro_Training\Day7-FileHandling\obj\Debug\net10.0\ref\Day7-FileHandling.dll

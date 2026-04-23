@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Scenario1_Ecommerce/Scenario1_Ecommerce.csproj" />
+  <Project Path="Scenario2_SocialMedia/Scenario2_SocialMedia.csproj" />
+  <Project Path="Scenario3_Banking/Scenario3_Banking.csproj" />
+  <Project Path="Scenario4_Playlist/Scenario4_Playlist.csproj" />
+  <Project Path="Scenario5_TaskScheduler/Scenario5_TaskScheduler.csproj" />
+</Solution>

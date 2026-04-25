@@ -1,0 +1,6 @@
+@Day10_SecureAuthAPI_HostAddress = http://localhost:5112
+
+GET {{Day10_SecureAuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
